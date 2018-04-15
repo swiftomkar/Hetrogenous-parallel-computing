@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Omkar Desai/Documents/C++/mpi_MergeSort/main.cpp
+stdlib.h
+-
+mpi.h
+-
+iostream
+-
+fstream
+-
+
